@@ -1,35 +1,10 @@
-# This repo will be deleted in January 2019 ! please update to the new version here : https://github.com/codedotspectra/themes
 
-# Discord Neutron
-help me to make this theme even better! Join the discord server!
-Suggestions and bugs reports are welcome
-https://discord.gg/Y8ZVyXz/
+# Discord Atom Credits
+* Redwolfee for the edits
+* codedotspectra (Jack Neth) For making this all credits for creating the Original CSS files (https://github.com/codedotspectra/)
 
-# What is Discord Neutron ?
-Discord Neutron is a theme meant to improve your experience. Discord Neutron is made to be highly customizable and even more compact. The theme is always updated just a few hours (max) after discords updates
-
-#### Neutron X
-![Neutron X](https://i.imgur.com/LNtTeZi.jpg)
-
-# Installation
-1. Download your favorite Neutron version
-2. open the themes folder `Discord -> Settings -> Themes -> Open themes folder`
-3. Place your theme in this folder (must be named like this : `name.theme.css`)
-4. Reload Discord using `Ctrl+R` (or `Command+R`)
-5. Go to `Discord -> Settings -> Themes` and turn on your theme
-
-### Customize
-
-
-Change the values to your liking!
-
-Option 1. USE MY THEME GENERATOR
-https://codedotspectra.github.io/bdthemegenerator/
-
-Option 2. use the custom css editor in Better discord and copy this
-https://pastebin.com/raw/irE3LL3t
-
-# Changelog
+# What is Discord Atom ?
+Discord Atom is a theme meant to improve your experience. Discord Atom is made to be highly customizable and even more compact. The theme is always updated just a few hours (max) after discords updates
 
 ### Version 4.5
 * Fixed user pp in dm notifications
