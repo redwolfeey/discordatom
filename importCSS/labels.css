@@ -1,0 +1,84 @@
+.usernameOffline-3VSVLk:after {
+    padding: 2px 3px 2px 3px;
+    background: #f04747;
+    color: #fff;
+    border-radius: 3px;
+    display: inline-block;
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 13px;
+    margin-left: 6px;
+    padding: 1px 2px;
+    margin-top:1px;
+    text-transform: uppercase;
+    vertical-align: top;
+    content: "offline";
+}
+.usernameOnline-3jr_0Y:after {
+    padding: 2px 3px 2px 3px;
+    background: #35974c;
+    color: #fff;
+    border-radius: 3px;
+    display: inline-block;
+    flex-shrink: 0;
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 13px;
+    margin-left: 6px;
+    padding: 1px 2px;
+    text-transform: uppercase;
+    vertical-align: top;
+    content: "online";
+    margin-top:1px;
+}
+
+.avatarSpeaking-1wJCNq {
+    animation-name: avatarSpin;
+    animation-delay: 0s;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.nameDefault-2s3kbY {
+    animation-name: rainbowText;
+    animation-delay: 0s;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes rainbowText {
+    0% {
+        color: #5EBD3E;
+    }
+    16% {
+        color: #FFB900;
+    }
+    32% {
+        color: #F78200;
+    }
+    48% {
+        color: #E23838;
+    }
+    64% {
+        color: #973999;
+    }
+    80% {
+        color: #009CDF;
+    }
+}
+
+@keyframes avatarSpin {
+    0% {
+        transform: rotate(90deg);
+    }
+    25% {
+        transform: rotate(180deg);
+    }
+    50% {
+        transform: rotate(270deg);
+    }
+    75% {
+        transform: rotate(360deg);
+    }
+}
